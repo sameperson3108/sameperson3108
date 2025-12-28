@@ -3,7 +3,7 @@
 I'm Semen Kondratenko. 
 20 years old.
 
-Java and Unity Developer, and a bit of an Editor in Premiere Pro
+Java and Unity Developer
 
 <!--
 **sameperson3108/sameperson3108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
