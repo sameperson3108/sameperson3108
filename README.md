@@ -5,6 +5,6 @@ I'm Semen Kondratenko.
 
 Java and Unity Developer
 
-Пройденные курсы: aslan javasky java/kotlin
+Пройденные курсы: aslan javasky java/kotlin, курс по java Яндекс Практикум (в процессе)
 
 Прочитанные книги: Грокаем алгоритмы, Полный курс Джава (Герберт Шилдт)
