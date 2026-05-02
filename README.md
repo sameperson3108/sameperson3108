@@ -6,8 +6,8 @@ I'm Semen Kondratenko.
 Java and Unity Developer
 
 Пройденные курсы: 
-aslan javasky java/kotlin,  
-курс по spring от udemy,  
+aslan javasky - java/kotlin,  
+udemy - курс по spring,  
 YY тренировки от алгоритмов до стажировки 11.03.26 - 14.04.26 (есть сертификат)
 
 Курсы в планах:  
