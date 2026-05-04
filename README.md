@@ -7,8 +7,9 @@ Java and Unity Developer
 
 Пройденные курсы: 
 aslan javasky - java/kotlin,  
-udemy - курс по spring,  
+udemy - курс по spring [на паузе],  
 YY тренировки от алгоритмов до стажировки 11.03.26 - 14.04.26 (есть сертификат)
+различного рода мелкие курсы на ютубе и stepik
 
 Курсы в планах:  
 ШБР java 2024 Yandex
